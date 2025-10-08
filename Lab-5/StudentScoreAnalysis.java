@@ -81,11 +81,11 @@ class Student {
     }
 }
 
-public class StudentScoreAnalysis {
+public class  StudentScoreAnalysis {
     public static void main(String[] args) {
         double[] marks = {85, 90, 78, 88, 92};
 
-        Student s1 = new Student("2305", "Roopesh", marks);
+        Student s1 = new Student("2315", "Surya naveen", marks);
 
         s1.addSkill("Java");
         s1.addSkill("Python");
